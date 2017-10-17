@@ -11,6 +11,6 @@ It uses the following:
 
 To get it running, all you need to do is plug in your own MongoDB url in `config/db.js`, then from the project root run `npm start APPNAME PORT`, replacing APPNAME with the name defined in `package.json` and PORT with the port number to listen on.
 
-This comes with a basic mongoose Model and functioning POST, GET, PUT, and DELETE endpoints.
+This comes with a basic mongoose model and functioning POST, GET, PUT, and DELETE endpoints.
 
 Much credit to Scott Domes for the great tutorial.
